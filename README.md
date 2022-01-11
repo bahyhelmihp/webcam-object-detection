@@ -1,4 +1,4 @@
-## webcam-object-detection
+# webcam-object-detection
 A repository containing my experiment on implementing Tensorflow 2 Object Detection API on a pre-recorded webcam footage. This notebook was inspired by the original example project at [this link](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/auto_examples/object_detection_camera.html#sphx-glr-auto-examples-object-detection-camera-py). Instead of using direct webcam access, I tried to use a pre-recorded webcam footage of myself showing several things to the camera.
 
 ### Project description
